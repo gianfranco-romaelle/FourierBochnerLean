@@ -1,5 +1,7 @@
 # Foundations
 
+<img width="1254" height="1254" alt="9825f6c6-91a8-4976-a3e3-726f534103fe" src="https://github.com/user-attachments/assets/e9785749-7e60-4350-9e60-57eec9600323" />
+
 [![Build](https://github.com/RoyGBivens137/Foundations/actions/workflows/build.yml/badge.svg)](https://github.com/RoyGBivens137/Foundations/actions/workflows/build.yml)
 
 A formal proof of **Bochner's theorem**, the **Fejér-Riesz factorization**, and the **Riesz representation theorem** on the circle group U(1), written in [Lean 4](https://lean-lang.org/) using [Mathlib](https://leanprover-community.github.io/mathlib4_docs/).
